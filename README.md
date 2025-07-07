@@ -88,3 +88,8 @@ Ready-to-run setup with port configuration
 
 📘 Conclusion
 Task 3 was a major step in understanding real-world networking in Java. It deepened my understanding of how chat systems, game lobbies, and collaborative tools function behind the scenes. The project taught me how to manage multiple threads, handle socket communication, and ensure smooth data transmission between clients. This task was successfully completed and serves as a solid foundation for advanced networked applications.
+
+OUTPUT: 
+![Image](https://github.com/user-attachments/assets/81c35543-b34d-42ef-9b1c-b953d7eb13d4)
+
+![Image](https://github.com/user-attachments/assets/3c3a7912-0406-4d2c-807b-a10a2ce0f602)
